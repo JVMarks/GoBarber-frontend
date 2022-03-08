@@ -27,7 +27,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/gobarber-web.git && cd gobarber-web
+$ git clone https://github.com/JVMarks/GoBarber-frontend.git && cd GoBarber-frontend
 ```
 
 **Follow the steps below**
@@ -50,14 +50,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/gobarber-web
+$ gh repo fork JVMarks/GoBarber-frontend
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-web
+$ git clone your-fork-url && cd GoBarber-frontend
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by JVMarks 👋 [See my linkedin](https://www.linkedin.com/in/joao-victor-marks/) 
+Made with 💜 by JVMarks 👋 [See my linkedin](https://www.linkedin.com/in/joao-victor-marks/)
